@@ -6,7 +6,7 @@ import numpy as np
 st.title('Statistiken manipulieren')
 
 st.subheader('Aufgabe')
-st.write('1. Ändere die Skalierung der Achsen, um mit dem entstehende Diagramm einen gezielten Eindruck zu erzeugen.')
+st.write('1. Ändere die Skalierung der Achsen, um mit dem entstehenden Diagramm einen gezielten Eindruck zu erzeugen.')
 st.write('2. Erstelle eine reißerische Überschrift zu deinem Diagramm.')
 st.write('3. Speichere das Diagramm unter dem Namen _Diagramm-Vorname.png_ ab und lade es bei IServ hoch.')
 st.divider()
